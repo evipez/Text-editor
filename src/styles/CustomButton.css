@@ -1,0 +1,12 @@
+button {
+    margin-left: 5%;
+    width: auto;
+    height: 2rem;
+    background-color: rgb(82, 82, 82);
+    border: none;
+    color: rgb(212, 212, 212);
+}
+
+button:hover {
+    background-color: rgb(92, 92, 92);
+}

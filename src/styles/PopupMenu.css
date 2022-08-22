@@ -1,0 +1,20 @@
+.PopUp {
+    position: fixed;
+    margin: 25%;
+    margin-top: 6%;
+    width: 50%;
+    border: none;
+    border-radius: 1.5%;
+    background-color: dimgrey;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    color: rgb(212, 212, 212);
+    padding: 1%;
+    font-size: 175%;
+}
+
+a {
+    color: cornflowerblue;
+}
