@@ -1,5 +1,3 @@
-This is my first react project.
-
 I've experimented a lot and I'm pretty sure that there would have been better solutions in some cases but anyway take a look
 
 # HOW TO USE
